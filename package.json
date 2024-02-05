@@ -1,0 +1,26 @@
+{
+  "name": "yjinlee-common-happy",
+  "version": "0.1.0",
+  "description": "common happy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjinlee99/yjinlee-common-happy.git"
+  },
+  "keywords": [
+    "common",
+    "js",
+    "function",
+    "export",
+    "module"
+  ],
+  "author": "yjinlee99",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yjinlee99/yjinlee-common-happy/issues"
+  },
+  "homepage": "https://github.com/yjinlee99/yjinlee-common-happy#readme"
+}
